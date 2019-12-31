@@ -1,0 +1,2 @@
+include ':app', ':MapModule', ':UserModule', ':ChatModule', ':BaseModule', ':CommonModule', ':XmppLibrary'
+rootProject.name='GisIM'
